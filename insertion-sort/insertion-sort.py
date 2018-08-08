@@ -12,6 +12,3 @@ def insertion_sort(array):
             j = j - 1
         i = i + 1
     return array
-
-a = [7, 2, 9, 2, 5, 9]
-print(insertion_sort(a))
